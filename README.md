@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bowLam
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Science with Economic Data in my program
+- 👀 Just a nerd in Data Analysis/Data Science, below are the projects I involved so far.
+- 🌱 Msc Economics
 - 📫 u3587059@connect.hku.hk
 
 <!---
