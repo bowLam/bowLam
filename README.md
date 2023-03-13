@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @bowLam
-- 👀 Just a nerd in Data Analysis/Data Science, below are the projects I involved so far.
 - 🌱 Msc Economics
 - 📫 u3587059@connect.hku.hk
 
